@@ -4,8 +4,11 @@ Welcome to Jarvis Beta, a state-of-the-art chatbot built using the powerful capa
 
 ## Features:
   1.Intelligent Conversations: Leverages Llama 3's sophisticated understanding to create meaningful and human-like interactions.
+
   2.Customizable Architecture: Designed with flexibility in mind, allowing you to tweak responses or extend functionality as needed.
+  
   3.Scalable Framework: Ready for deployment across applications ranging from personal assistants to enterprise chat solutions.
+  
 
 ## Why Llama 3?
 Llama 3 is at the forefront of natural language processing, offering unmatched contextual comprehension and generation capabilities. With it, this chatbot can       understand and respond to user queries in an intuitive and engaging way.
